@@ -70,7 +70,7 @@ print("RMSE= ",rmse)
 ## Dataset
 ![Output](./2.1.png)
 ## Head values
-![Output](,/2.2.png)
+![Output](./2.2.png)
 ## Tail values
 ![Output](./2.3.png)
 ## X and Y values
