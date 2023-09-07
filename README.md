@@ -68,13 +68,13 @@ print("RMSE= ",rmse)
 
 ## Output:
 ![Dataset](./2.1.png)
-![Head values](2.2.png)
-![Tail values](2.3.png)
-![X and Y values](2.4.png)
-![Prediction values of X and Y](2.5.png)
-![MSE,MAE & RMSE](2.6.png)
-![Training set](2.7.png)
-![Testing set](2.8.png)
+![Head values](,/2.2.png)
+![Tail values](./2.3.png)
+![X and Y values](./2.4.png)
+![Prediction values of X and Y](./2.5.png)
+![MSE,MAE & RMSE](./2.6.png)
+![Training set](./2.7.png)
+![Testing set](./2.8.png)
 
 
 ## Result:
